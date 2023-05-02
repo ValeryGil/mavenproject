@@ -7,6 +7,6 @@ public class BonusService {
         if (bonus > limit) {
             bonus = limit;
         }
-        return bonus;git statusgii
+        return bonus;
     }
 }
